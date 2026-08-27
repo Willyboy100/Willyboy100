@@ -1,10 +1,18 @@
-# Hi, I'm William Njoku 👋
+# William Njoku
 
-### AI Automation Engineer | LLM Systems | Workflow Orchestration
+### AI Automation Engineer • LLM Systems • Workflow Orchestration
 
-I build AI-powered systems that combine **LLMs, APIs, automation platforms, and business data** to automate real-world workflows.
+![OpenAI](https://img.shields.io/badge/OpenAI-LLM-412991?style=for-the-badge&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-My focus is designing reliable AI pipelines using structured outputs, conditional logic, API integrations, and intelligent workflow orchestration.
+---
+
+I build AI-powered systems that combine **LLMs, APIs, automation platforms, and business data** to automate complex business workflows.
+
+My work focuses on reliable AI pipelines using structured outputs, workflow orchestration, validation, and intelligent decision systems.
 
 ## 🚀 What I Build
 
