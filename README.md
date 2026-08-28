@@ -30,12 +30,12 @@ An AI-powered workflow that qualifies leads, retrieves prospect context, generat
 
 > Building practical AI systems that solve business problems—not just prompts.
 
-## 📚 Currently Learning
+## 📚 Current Focus
 
-* Multi-Agent Systems
-* RAG Architectures
-* LLM Evaluation
-* Reliable AI Engineering
+- Agentic AI Systems
+- LLM Reliability & Evaluation
+- Workflow Orchestration
+- AI-Powered Business Automation
 
 ## 🤝 Connect With Me
 
