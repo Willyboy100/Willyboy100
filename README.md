@@ -30,6 +30,36 @@ An AI-powered workflow that qualifies leads, retrieves prospect context, generat
 
 > Building practical AI systems that solve business problems—not just prompts.
 
+## Demo Walkthrough
+
+### Input
+
+Lead Record
+
+- Name: Alex
+- Company: Example Technologies
+- Title: VP Engineering
+- Company Size: 150
+- Need: Improving engineering productivity
+
+### Processing
+
+1. Qualification Gate
+2. Context Retrieval
+3. Message Generation
+4. Validation
+5. Routing
+6. Persistence
+
+### Output
+
+Status: Ready
+
+Channel: LinkedIn
+
+Message:
+"Hi Alex, I noticed Example Technologies is working on improving engineering productivity..."
+
 ## 📚 Current Focus
 
 - Agentic AI Systems
